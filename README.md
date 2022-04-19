@@ -4,7 +4,7 @@
 	<img alt="logo" src="julei-ui/src/assets/logo/img.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">julei v3.8.2</h1>
-<h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4>
+
 <p align="center">
 	<a href="https://gitee.com/y_project/julei-Vue/stargazers"><img src="https://gitee.com/y_project/julei-Vue/badge/star.svg?theme=dark"></a>
 	<a href="https://gitee.com/y_project/julei-Vue"><img src="https://img.shields.io/badge/julei-v3.8.2-brightgreen.svg"></a>
@@ -12,15 +12,11 @@
 </p>
 
 ## 平台简介
-
-聚垒是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
-
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 高效率开发，使用代码生成器可以一键生成前后端代码。
-* 提供了技术栈（[Vue3](https://v3.cn.vuejs.org) [Element Plus](https://element-plus.org/zh-CN) [Vite](https://cn.vitejs.dev)）版本[julei-Vue3](https://github.com/yangzongzhuan/julei-Vue3)，保持同步更新。
 
 ## 内置功能
 
@@ -42,18 +38,6 @@
 16. 缓存监控：对系统的缓存信息查询，命令统计等。
 17. 在线构建器：拖动表单元素生成相应的HTML代码。
 18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
-
-## 在线体验
-
-<<<<<<< HEAD
-- admin/admin123
-=======
-- admin/admin123  
-- 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
-
-演示地址：http://vue.julei.vip  
-文档地址：http://doc.julei.vip
->>>>>>> parent of 2d9f0ad (Delete README.md)
 
 ## 演示图
 
@@ -86,9 +70,5 @@
         <td><img src="https://oscimg.oschina.net/oscnet/up-d4fe726319ece268d4746602c39cffc0621.png"/></td>
         <td><img src="https://oscimg.oschina.net/oscnet/up-c195234bbcd30be6927f037a6755e6ab69c.png"/></td>
     </tr>
-<<<<<<< HEAD
-    
 </table>
 
-
->>>>>>> parent of 2d9f0ad (Delete README.md)
